@@ -1,0 +1,5 @@
+current city :Nepal:21
+current city :Delhi:26
+current city :istanbul:6
+current city :Hyd:27
+current city :Pakistan:20
